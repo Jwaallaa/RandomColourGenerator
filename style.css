@@ -1,0 +1,19 @@
+#box{
+    display: flex;
+    height: 95vh;
+    width: 100vw;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+#con{
+    width: 40vw;
+    height: 40vh;
+    border: 2px solid black;
+    background-color: tan;
+    
+}
+
+button {
+    transform: scale(1.2);
+}
